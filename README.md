@@ -1,21 +1,26 @@
-# homework
+# ThoughtWorks' Homework
 
-> A Vue.js project
+> A car management system developed with Vue.js for DADA corporation.
 
-## Build Setup
+## How to enter this system
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+### 1.enter the online system
 
-# build for production with minification
-npm run build
+Open your browser and enter the url `www.zhongdeming.cn`, then you can see the main interface of DADA car management system.
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+### 2.build a local system
+Download the project from my GitHub repository `https://github.com/zhongdeming428/ThoughtWorks-Homework`,copy the files under `/dist` to your local server directory.Start your lcoal server and you can enter this system.
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## How to use this system
+After you entered this system, you can see it was divided into 2 parts.The left part is used for input informations of cars, and the left part is used for outputting the results. The left part has 2 approaches to input the informations of cars, include table input and textarea input.You can select which to use. After you entered the informations of cars, the result will displayed in the right part. 
+
+
+##Attention
+1.Please not open the index.html file directly. The file must deployed in http-server environment.
+
+2.It is better to use Chrome/FireFox to visit this system, If it is IE, ensure its version is not lower than 8.
+
+3.If you are interested in the author of this system, you can visit his [resume]('www.zhongdeming.cn/NewResume/index.html') online.
+
+
