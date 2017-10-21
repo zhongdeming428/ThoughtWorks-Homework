@@ -23,6 +23,6 @@ After you entered this system, you can see it was divided into 2 parts.The left 
 
 2.It is better to use Chrome/FireFox to visit this system, If it is IE, ensure its version is not lower than 8.
 
-3.If you are interested in the author of this system, you can visit his [resume](http://www.zhongdeming.cn/NewResume/index.htm) online.
+3.If you are interested in the author of this system, you can visit his [resume](http://www.zhongdeming.cn/NewResume/index.html) online.
 
 
