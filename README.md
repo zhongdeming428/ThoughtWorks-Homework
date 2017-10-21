@@ -17,6 +17,8 @@ After you entered this system, you can see it was divided into 2 parts.The left 
 
 
 ##Attention
+
+
 1.Please not open the index.html file directly. The file must deployed in http-server environment.
 
 2.It is better to use Chrome/FireFox to visit this system, If it is IE, ensure its version is not lower than 8.
